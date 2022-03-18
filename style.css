@@ -76,3 +76,19 @@ a {
 .play_plus .card img {
     width: 70%;
 }
+
+.now {
+    background-color: #161b3c;
+}
+
+.now .card {
+    background: none;
+}
+
+.now img {
+    width: 100%;
+}
+
+.now .card img {
+    width: 70%;
+}
