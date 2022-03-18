@@ -8,6 +8,10 @@ body {
     margin: 0 5px;
 }
 
+.dropdown-menu li {
+    display: inline-block;
+}
+
 .jumbo {
     height: 800px;
     background-image: url(./img/jumbo-bg.png);
