@@ -96,3 +96,24 @@ a {
 .media img {
     width: 100%;
 }
+
+.site_footer {
+    background-color: #00439c;
+    padding: 100px 30px;
+}
+
+.site_footer ul {
+    list-style: none;
+}
+
+.site_footer li {
+    margin-bottom: 10px;
+}
+
+.site_footer .card {
+    background: none;
+}
+
+.site_footer .card img {
+    width: 150px;
+}
