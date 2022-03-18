@@ -60,3 +60,19 @@ a {
     color: white;
     margin-top: 10px;
 }
+
+.play_plus {
+    background-color: #c4c4c4;
+}
+
+.play_plus .card {
+    background: none;
+}
+
+.play_plus img {
+    width: 100%;
+}
+
+.play_plus .card img {
+    width: 50%;
+}
