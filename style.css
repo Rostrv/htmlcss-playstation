@@ -92,3 +92,7 @@ a {
 .now .card img {
     width: 70%;
 }
+
+.media img {
+    width: 100%;
+}
