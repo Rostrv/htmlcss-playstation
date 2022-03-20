@@ -42,6 +42,23 @@ a {
     width: 50%;
 }
 
+.accessories .col {
+    filter: opacity(0.5);
+}
+
+.accessories .col:hover {
+    filter: none;
+}
+
+.accessories .col:hover:after {
+    content: "";
+    display: block;
+    margin: auto;
+    width: 100%;
+    height: 2px;
+    background-color: #3751e2;
+}
+
 .jumbo2 {
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
@@ -95,6 +112,11 @@ a {
 
 .media img {
     width: 100%;
+}
+
+.media img:hover {
+    transform: scale(1.1, 1.1);
+    transition: 0.5s;
 }
 
 .site_footer {
