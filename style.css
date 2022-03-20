@@ -44,13 +44,10 @@ a {
 
 .accessories img {
     width: 50%;
-}
-
-.accessories .col {
     filter: opacity(0.5);
 }
 
-.accessories .col:hover {
+.accessories .col:hover img {
     filter: none;
 }
 
