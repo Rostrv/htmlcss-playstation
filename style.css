@@ -16,6 +16,10 @@ a {
     display: inline-block;
 }
 
+.dropdown.show img {
+    transform: rotate(180deg);
+}
+
 .jumbo {
     height: 800px;
     background-image: url(./img/jumbo-bg.png);
