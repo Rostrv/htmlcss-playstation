@@ -37,7 +37,6 @@ img {
 }
 
 .games {
-    width: 100%;
     border-radius: 25px;
 }
 
@@ -118,10 +117,6 @@ img {
     background: none;
 }
 
-.play_plus img {
-    width: 100%;
-}
-
 .play_plus .card img {
     width: 70%;
 }
@@ -134,16 +129,8 @@ img {
     background: none;
 }
 
-.now img {
-    width: 100%;
-}
-
 .now .card img {
     width: 70%;
-}
-
-.media img {
-    width: 100%;
 }
 
 .media img:hover {
